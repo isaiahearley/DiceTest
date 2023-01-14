@@ -32,8 +32,6 @@ for(int i = 20; i > 0; i--){
 }
 
 
-
-
 system("pause");
 return 0;
 }
